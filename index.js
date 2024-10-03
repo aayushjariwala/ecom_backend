@@ -245,7 +245,6 @@ const fetchUser = (req, res, next) => {
 
 
 
-
 // Cart-related routes...
 // (addtocart, removefromcart, getcart, etc.)
 
